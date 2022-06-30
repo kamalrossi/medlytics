@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/medlytics/static/css/main.445b09f0.chunk.css",
+    "main.js": "/medlytics/static/js/main.8d898233.chunk.js",
+    "main.js.map": "/medlytics/static/js/main.8d898233.chunk.js.map",
+    "runtime-main.js": "/medlytics/static/js/runtime-main.61b225ca.js",
+    "runtime-main.js.map": "/medlytics/static/js/runtime-main.61b225ca.js.map",
+    "static/css/2.31ff0196.chunk.css": "/medlytics/static/css/2.31ff0196.chunk.css",
+    "static/js/2.9520a1ce.chunk.js": "/medlytics/static/js/2.9520a1ce.chunk.js",
+    "static/js/2.9520a1ce.chunk.js.map": "/medlytics/static/js/2.9520a1ce.chunk.js.map",
+    "static/js/3.40c7ffc0.chunk.js": "/medlytics/static/js/3.40c7ffc0.chunk.js",
+    "static/js/3.40c7ffc0.chunk.js.map": "/medlytics/static/js/3.40c7ffc0.chunk.js.map",
+    "index.html": "/medlytics/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/medlytics/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.445b09f0.chunk.css.map": "/medlytics/static/css/main.445b09f0.chunk.css.map",
+    "static/js/2.9520a1ce.chunk.js.LICENSE.txt": "/medlytics/static/js/2.9520a1ce.chunk.js.LICENSE.txt",
+    "static/media/medlytics0.d82cbd12.png": "/medlytics/static/media/medlytics0.d82cbd12.png",
+    "static/media/medlytics1.ed1ef533.png": "/medlytics/static/media/medlytics1.ed1ef533.png",
+    "static/media/medlytics3.22421350.png": "/medlytics/static/media/medlytics3.22421350.png",
+    "static/media/medlytics4.1405cb93.png": "/medlytics/static/media/medlytics4.1405cb93.png",
+    "static/media/medlytics5.1c601939.png": "/medlytics/static/media/medlytics5.1c601939.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61b225ca.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.9520a1ce.chunk.js",
+    "static/css/main.445b09f0.chunk.css",
+    "static/js/main.8d898233.chunk.js"
+  ]
+}
